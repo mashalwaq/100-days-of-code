@@ -1,25 +1,30 @@
 # 100 Days Of Code - Log
 
 ### Day 0: June 25, 2016 
+**Today's Progress**: Started working on the Front End Certification at FCC
+  Created Wordpress blog for progress: https://www.mashalwaq.wordpress.com  
+  Practiced the following stuff today:
+    -Say Hello to HTML Elements Complete
+    -Headline with the h2 Element Complete
+    -Inform with the Paragraph Element Complete
+   -Uncomment HTML Complete
+    -Comment out HTML Complete
+    -Fill in the Blank with Placeholder Text Complete
+    -Delete HTML Elements Complete
+    -Change the Color of Text Complete
+    -Use CSS Selectors to Style Elements Complete
+    -Use a CSS Class to Style an Element Complete
+    -Style Multiple Elements with a CSS Class
+
+**Thoughts:** I'm pretty proud of myself to be very honest
+
+**Link to work:** [Blog](https://www.mashalwaq.wordpress.com )
 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+
+### Day 1: June 26, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
