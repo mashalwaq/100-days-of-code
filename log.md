@@ -15,6 +15,10 @@
     -Use CSS Selectors to Style Elements Complete
     -Use a CSS Class to Style an Element Complete
     -Style Multiple Elements with a CSS Class
+-Change the Font Size of an Element Complete
+-Set the Font Family of an Element Complete
+
+Import a Google Font
 
 **Thoughts:** I'm pretty proud of myself to be very honest
 
