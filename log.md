@@ -36,3 +36,9 @@ Import a Google Font
 
 ### Day 2: June 27, Tuesday
 **Today's Progress**: More HTML stuff that I've merged on my blogpost for Day 1 https://wordpress.com/post/mashalwaq.wordpress.com/34 
+
+### Feb 21, Tuesday
+**Today's Progress**: Back at it and at score 164. 
+Manipulate Arrays With unshift
+.unshift() works exactly like .push(), but instead of adding the element at the end of the array, unshift() adds the element at the beginning of the array.
+
